@@ -116,7 +116,7 @@ td, th {
 body {
     width: 100%;
     min-height: 100%;
-    background: url("bg.jpg") 0 0 no-repeat;
+    background: url("bg.jpg") no-repeat scroll center top transparent;;
     background-size: cover;
     color: #fff;
     font: 400 16px 'Open Sans',  Arial;
